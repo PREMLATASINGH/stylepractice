@@ -15,7 +15,7 @@ function App() {
   }
   return (
     <>
-    <h1>chai aur code</h1>
+    <h1>Welcome to counter project</h1>
     <h2>counter value:{counter}</h2>
     <button onClick={addCounter}>add{counter}</button>
     <button onClick={subCounter}>sub{counter}</button>
