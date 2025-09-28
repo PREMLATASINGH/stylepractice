@@ -10,8 +10,8 @@ function App(props) {
     <>
       
        <h1>My contact</h1>
-       <h2>{props.name}</h2>
-       <img src={props.img} alt='Beyonce'/>
+       <h2 className='name'>{props.name}</h2>
+       <img className='circle.img' src={props.img}  alt='Beyonce'/>
        <p>{props.Phone}</p>
        <p>{props.Email}</p>
        <p>{props.Address}</p>

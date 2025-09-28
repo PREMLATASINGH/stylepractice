@@ -1,0 +1,11 @@
+.name{
+    text-align: center;
+    color: blue;
+}
+circle.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    border-radius: 50%;
+    border: 2px solid black;}
